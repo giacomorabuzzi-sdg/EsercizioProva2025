@@ -1,0 +1,31 @@
+product_id,nome_prodotto,brand,categoria_prodotto,peso (g)
+P001,Caffè Arabica Premium,Aroma Perfetto,Bevande Calde,500
+P002,Tè Verde Sencha,Zen Leaf,Bevande Calde,150
+P003,Latte Fresco Intero,Latteria Reale,Latticini,1000
+P004,Yogurt Naturale Greco,Miti Greci,Latticini,200
+P005,Pasta di Grano Duro,Grano D'Oro,Pasta e Riso,500
+P006,Riso Basmati,Oriente Express,Pasta e Riso,1000
+P007,Olio Extra Vergine,Oro Verde,Condimenti,750
+P008,Sale Marino Grosso,Cristallo Blu,Condimenti,1000
+P009,Biscotti al Cioccolato,Dolce Tentazione,Dolciumi,300
+P010,Marmellata di Fragole,Frutta Viva,Colazione,400
+P011,Acqua Minerale Naturale,Fonte Chiara,Bevande Fredde,1500
+P012,Birra Artigianale IPA,Luppolo Matto,Bevande Alcoliche,500
+P013,Detersivo Lavatrice,Pulito Brillante,Pulizia Casa,2000
+P014,Shampoo Delicato,Capelli Sani,Cura della Persona,250
+P015,Dentifricio Menta,Sorriso Fresco,Cura della Persona,75
+P016,Tovaglioli di Carta,Festa e Casa,Casa e Ufficio,100
+P017,Penne Gel Nere,Scrittura Facile,Casa e Ufficio,20
+P018,Petto di Pollo Fresco,Carni Scelte,Carni e Pesce,500
+P019,Salmone Affumicato,Mare del Nord,Carni e Pesce,150
+P020,Zucchine Biologiche,Orto Sincero,Frutta e Verdura,700
+P021,Mele Rosse Fuji,Dolce Raccolta,Frutta e Verdura,1000
+P022,Pane Integrale,Forno Antico,Panetteria,400
+P023,Croissant Vuoti,Mattina Felice,Panetteria,60
+P024,Cioccolato Fondente 80%,Amaro Sublime,Dolciumi,100
+P025,Vino Rosso Chianti,Vigneto Nobile,Bevande Alcoliche,750
+P026,Succo d'Arancia,Sole di Sicilia,Bevande Fredde,1000
+P027,Sapone Mani Lavanda,Essenze Pure,Cura della Persona,300
+P028,Candela Profumata Vaniglia,Luce Soffice,Pulizia Casa,150
+P029,Patatine Fritte Classiche,Snack Croccante,Snack,150
+P030,Hummus di Ceci,Mondo Vegano,Alimenti Freschi,200
